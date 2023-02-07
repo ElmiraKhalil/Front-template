@@ -1,0 +1,12 @@
+.card .card-body {
+  width: 600px;
+  height: 600px;
+}
+.card .card-body .card-title {
+  font-size: 56px;
+  color: #1E2022;
+}
+.card .card-body .card-text {
+  font-size: 21px;
+  color: #677788;
+}/*# sourceMappingURL=style.css.map */
